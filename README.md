@@ -3,6 +3,6 @@ Análisis del comportamiento de los clientes para descubrir patrones de evasión
 
 
 El propósito del análisis realizado.
-La estructura del proyecto y organización de los archivos.
-Ejemplos de gráficos e insights obtenidos.
-Instrucciones para ejecutar el notebook.
+1. La estructura del proyecto y organización de los archivos.
+2. Ejemplos de gráficos e insights obtenidos.
+3. Instrucciones para ejecutar el notebook.
