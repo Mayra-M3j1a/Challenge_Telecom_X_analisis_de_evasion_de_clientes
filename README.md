@@ -11,8 +11,8 @@ En este desafío, el enfoque está en el proceso de extracción de datos desde l
 
 <img width="737" height="500" alt="imagen" src="https://github.com/user-attachments/assets/7f5c6912-acca-4a5d-afd8-525954d86a71" />
 
-<img width="910" height="545" alt="imagen" src="https://github.com/user-attachments/assets/358381cf-4f20-4739-b522-75428cf49e16" />
+<img width="737" height="500" alt="imagen" src="https://github.com/user-attachments/assets/358381cf-4f20-4739-b522-75428cf49e16" />
 
-<img width="906" height="524" alt="imagen" src="https://github.com/user-attachments/assets/76cb5771-d451-47a0-a25e-9a875cc1dde2" />
+<img width="737" height="500" alt="imagen" src="https://github.com/user-attachments/assets/76cb5771-d451-47a0-a25e-9a875cc1dde2" />
 
 3. Instrucciones para ejecutar el notebook.
